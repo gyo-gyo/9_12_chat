@@ -12,7 +12,7 @@
     <form action="Question_post.php" method="POST">
         <h1>QUESTION</h1>
         <h2>
-            好きなのは？？？？
+            嫌いなのは？？？？
         </h2>
         <div>
             <input type="radio" name="like" value="1">アウトドア
